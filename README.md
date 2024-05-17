@@ -1,6 +1,4 @@
-Hello there, Memechanic here
-
-I like cheesecake
+Hello there
 
 <!---
 The-Memechanic/The-Memechanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
